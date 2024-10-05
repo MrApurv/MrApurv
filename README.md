@@ -1,3 +1,5 @@
+![logo](https://github.com/MrApurv/MrApurv/blob/main/Linkedin%20Banner%20Image.png)
+
 <h1 align="center">Hi 👋, I'm Mr Apurv Nipane...</h1>
 <h3 align="center">Software Engineer | Tech Enthusiast | Passionate DSA Problem Solver</h3>
 
