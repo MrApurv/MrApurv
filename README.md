@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrapurv&label=Profile%20views&color=0e75b6&style=flat" alt="mrapurv" /> </p>
 
-- 👨‍💻 My complete portfolio of projects is available at: [https://amol-26.web.app/#home](https://amol-26.web.app/#home)
+- 👨‍💻 My complete portfolio of projects is available at: [https://apurvmyportfolio.netlify.app/](https://apurvmyportfolio.netlify.app/)
 
 - 📫 Feel free to reach me at: **apurvnipane111@gmail.com**
 
